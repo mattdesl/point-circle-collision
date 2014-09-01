@@ -21,7 +21,7 @@ console.log(hit)
 
 [![NPM](https://nodei.co/npm/point-circle-collision.png)](https://nodei.co/npm/point-circle-collision/)
 
-### `collide(point, circle, radius)```
+### `collide(point, circle, radius)`
 
 Performs a collision test with the given parameters. Returns true if collision occurred.
 
